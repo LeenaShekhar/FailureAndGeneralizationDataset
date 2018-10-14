@@ -1,6 +1,6 @@
 # FailureAndGeneralizationDataset
 
-This repository contans dataset for the "The Fine Line between Linguistic Generalization and Failure in Seq2Seq-Attention Models" paper accepted for GenDeep conference at NAACL'18. 
+This repository contans dataset for the paper, [The Fine Line between Linguistic Generalization and Failure in Seq2Seq-Attention Models] (https://arxiv.org/pdf/1805.01445.pdf), accepted for GenDeep conference at NAACL'18. 
 
 ## Data Files
 
